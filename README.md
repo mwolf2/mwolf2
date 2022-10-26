@@ -1,4 +1,4 @@
-## Max Wolf | Student and AI Programmer
+## Max Wolf
 I am a high school graduate with a passion for engineering, computers, and science.
 
 #### AI
