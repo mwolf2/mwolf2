@@ -6,5 +6,5 @@ I work on projects pertaining to a variety of subjects, although I currently spe
 
 #### Programming Languages
 <p>
-I am fluent in Python and have a working knowledge of C, C++, and C#.
+I primarily use Python but am comfortable with C# and Java as well.
 </p>
