@@ -6,5 +6,5 @@ I work on projects pertaining to a variety of subjects, although I currently spe
 
 #### Programming Languages
 <p>
-I primarily use Python but am comfortable with C# and Java as well.
+I primarily use Python but am comfortable with C++, C# and several other common languages.
 </p>
